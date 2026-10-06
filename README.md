@@ -10,11 +10,11 @@ Clone the repo and double-click `index.html`. No installs, no server.
 
 Open `tests/tests.html`. It shows PASS/FAIL for each test.
 
-## Continuous Integration
+## Continuous Integration it
 
 `.github/workflows/ci.yml` runs on every push and pull request. It:
 
-1. Checks out the code
+1. Checks out the code iii
 2. Verifies the required files exist
 3. Runs `node tests/tests.js` (Node is preinstalled on GitHub's runners, so you do not need it locally)
 
